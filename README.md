@@ -1,6 +1,5 @@
-# bio
-# 👋 Olá, eu sou Nathan! ✨
 -->
+# 👋 Olá, eu sou Nathan!
 ## 🚀💫 Sobre mim 💫🚀
 🎯 Sou um jovem aprendiz de  🇧🇷  
 💡 Apaixonado por tecnologia e inovação 💻✨  
